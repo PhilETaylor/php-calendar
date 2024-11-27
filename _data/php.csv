@@ -22,7 +22,13 @@ version,date,type
 8.0,2023-11-26,end of security support
 8.1,2021-11-25,released
 8.1,2023-11-25,end of active support
-8.1,2024-11-25,end of security support
+8.1,2025-12-31,end of security support
 8.2,2022-12-08,released
-8.2,2024-12-08,end of active support
-8.2,2025-12-08,end of security support
+8.2,2024-12-31,end of active support
+8.2,2026-12-31,end of security support
+8.3,2023-11-23,released
+8.3,2025-12-31,end of active support
+8.3,2027-12-31,end of security support
+8.4,2024-11-21,released
+8.4,2026-12-31,end of active support
+8.4,2028-12-31,end of security support
